@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20.079" height="33.521" viewBox="0 0 20.079 33.521">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_8119" data-name="Path 8119" d="M483.071,471.627V504.6h7.892V471.243Z" transform="translate(-483.071 -471.243)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="-16.445" y1="4.902" x2="-16.411" y2="4.902" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c1272d"/>
+      <stop offset="0.162" stop-color="#c2292f"/>
+      <stop offset="0.239" stop-color="#c53036"/>
+      <stop offset="0.298" stop-color="#cb3d43"/>
+      <stop offset="0.348" stop-color="#d44f55"/>
+      <stop offset="0.391" stop-color="#df676c"/>
+      <stop offset="0.431" stop-color="#ed8489"/>
+      <stop offset="0.452" stop-color="#f7989c"/>
+      <stop offset="0.527" stop-color="#f47479"/>
+      <stop offset="0.612" stop-color="#f1545a"/>
+      <stop offset="0.7" stop-color="#ef3b42"/>
+      <stop offset="0.791" stop-color="#ee2a31"/>
+      <stop offset="0.888" stop-color="#ed1f27"/>
+      <stop offset="1" stop-color="#ed1c24"/>
+    </linearGradient>
+    <clipPath id="clip-path-2">
+      <path id="Path_8120" data-name="Path 8120" d="M517.9,471.242v5.946c1.36-.214,2.007,1.3,2.007,1.3l-.285,19.728-1.721.692V504.6c11.108,1.279,10.721-5.58,10.721-5.58V478.045c-.535-6.719-10.217-6.8-10.7-6.8H517.9" transform="translate(-517.901 -471.242)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="-6.877" y1="4.525" x2="-6.864" y2="4.525" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fbb03b"/>
+      <stop offset="0.117" stop-color="#fbb03b"/>
+      <stop offset="0.34" stop-color="#fef9ae"/>
+      <stop offset="0.693" stop-color="#fcee21"/>
+      <stop offset="0.908" stop-color="#fbb03b"/>
+      <stop offset="1" stop-color="#fbb03b"/>
+    </linearGradient>
+  </defs>
+  <g id="generic_icon" data-name="generic icon" transform="translate(-1554.864 291.969)">
+    <g id="Group_1355" data-name="Group 1355" transform="translate(1071.793 -763.211)">
+      <g id="Group_1352" data-name="Group 1352" transform="translate(483.071 471.242)">
+        <g id="Group_1351" data-name="Group 1351" clip-path="url(#clip-path)">
+          <rect id="Rectangle_796" data-name="Rectangle 796" width="7.892" height="33.362" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <g id="Group_1354" data-name="Group 1354" transform="translate(492.428 471.242)">
+        <g id="Group_1353" data-name="Group 1353" transform="translate(0 0)" clip-path="url(#clip-path-2)">
+          <rect id="Rectangle_797" data-name="Rectangle 797" width="19.613" height="36.331" transform="matrix(0.967, -0.256, 0.256, 0.967, -8.579, 2.274)" fill="url(#linear-gradient-2)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

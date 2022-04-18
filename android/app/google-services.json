@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1073031580348",
+    "project_id": "zenith-dance-app",
+    "storage_bucket": "zenith-dance-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073031580348:android:a8b579003e69e138309eb9",
+        "android_client_info": {
+          "package_name": "com.phoeniixx.zenith"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073031580348-cmru7sqege3fe8du7i69vfbmgia5jau7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO_lSL0caMMxiIpc7KiWw-T32DpI7ls9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073031580348-cmru7sqege3fe8du7i69vfbmgia5jau7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

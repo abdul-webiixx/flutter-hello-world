@@ -1,0 +1,94 @@
+{
+  "search": [
+    {
+      "name": "Belly Dance",
+      "details": "",
+      "image": "service-types/July2021/RlnoFaDe9BH92v8ZK8ZX.png",
+      "product_type": 2,
+      "product_id": 19,
+      "parent_id": 4,
+      "description": "48 Classes",
+      "type": "Online class"
+    },
+    {
+      "name": "Belly Dance",
+      "details": "",
+      "image": "service-types/July2021/RlnoFaDe9BH92v8ZK8ZX.png",
+      "product_type": 2,
+      "product_id": 20,
+      "parent_id": 4,
+      "description": "24 Classes",
+      "type": "Online class"
+    },
+    {
+      "name": "Belly Dance",
+      "details": "",
+      "image": "service-types/July2021/RlnoFaDe9BH92v8ZK8ZX.png",
+      "product_type": 2,
+      "product_id": 21,
+      "parent_id": 4,
+      "description": "8 Classes",
+      "type": "Online class"
+    },
+    {
+      "name": "Belly Dance",
+      "details": "",
+      "image": "service-types/July2021/RlnoFaDe9BH92v8ZK8ZX.png",
+      "product_type": 2,
+      "product_id": 22,
+      "parent_id": 4,
+      "description": "72 Classes",
+      "type": "Online class"
+    },
+    {
+      "name": "Belly Dance",
+      "details": "",
+      "image": "service-types/July2021/RlnoFaDe9BH92v8ZK8ZX.png",
+      "product_type": 2,
+      "product_id": 23,
+      "parent_id": 4,
+      "description": "36 Classes",
+      "type": "Online class"
+    },
+    {
+      "name": "Belly Dance",
+      "details": "",
+      "image": "service-types/July2021/RlnoFaDe9BH92v8ZK8ZX.png",
+      "product_type": 2,
+      "product_id": 24,
+      "parent_id": 4,
+      "description": "12 Classes",
+      "type": "Online class"
+    },
+    {
+      "name": "Belly Dance Offline",
+      "details": "",
+      "image": null,
+      "product_type": 3,
+      "product_id": 43,
+      "parent_id": 10,
+      "description": "8 Classes",
+      "type": "Offline class"
+    },
+    {
+      "name": "Belly Dance Offline",
+      "details": "",
+      "image": null,
+      "product_type": 3,
+      "product_id": 44,
+      "parent_id": 10,
+      "description": "12 Classes",
+      "type": "Offline class"
+    },
+    {
+      "name": "Belly Dance Course",
+      "details": "<p>Belly Dance Course Belly Dance Course Belly Dance Course</p>",
+      "image": "courses/August2021/bI9isf96pO9MRiiks7RZ.png",
+      "product_type": 1,
+      "product_id": 1,
+      "parent_id": null,
+      "description": "4 Lessons",
+      "type": " Dance course"
+    }
+  ]
+}

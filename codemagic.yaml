@@ -1,0 +1,44 @@
+workflows:
+  android-workflow:
+    name: Android Workflow
+    max_build_duration: 120
+    environment:
+      vars:
+        FCI_KEYSTORE: Encrypted{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}
+        FCI_KEYSTORE_PASSWORD: Encrypted{U2hyaUAxMjM0}
+        FCI_KEY_PASSWORD: Encrypted{U2hyaUAxMjM0}
+        FCI_KEY_ALIAS: Encrypted{emVuaXRo}
+        PACKAGE_NAME: "com.phoeniixx.zenith"
+        flutter: stable
+      xcode: latest
+      cocoapods: default
+    scripts:
+      - name: Set up key properties
+        script: |
+          echo $FCI_KEYSTORE | base64 --decode > /tmp/keystore.keystore
+          cat >> "$FCI_BUILD_DIR/android/key.properties" <<EOF
+          storePassword=$FCI_KEYSTORE_PASSWORD
+          keyPassword=$FCI_KEY_PASSWORD
+          keyAlias=$FCI_KEY_ALIAS
+          storeFile=/tmp/keystore.keystore
+          EOF
+      - name: Set up local.properties
+        script: |
+          echo "flutter.sdk=$HOME/programs/flutter" > "$FCI_BUILD_DIR/android/local.properties"
+      - name: Get Flutter packages
+        script: |
+          cd . && flutter packages pub get
+      - name: Install Zoom Sdk
+        script: |
+          cd . && flutter pub run custom_zoom_sdk:unzip_zoom_sdk
+      - name: Install pods
+        script: |
+          find . -name "Podfile" -execdir pod install \;
+      - name: Build APK with Flutter  
+        script: |
+          cd . && flutter build apk --split-per-abi --build-name=1.0.0 --build-number=$(($(google-play get-latest-build-number --package-name "$PACKAGE_NAME" --tracks="$GOOGLE_PLAY_TRACK") + 1))
+    artifacts:
+      - build/**/outputs/**/*.apk
+      - build/**/outputs/**/*.aab
+      - build/**/outputs/**/mapping.txt
+      - flutter_drive.log
